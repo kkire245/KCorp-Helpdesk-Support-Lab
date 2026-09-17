@@ -35,7 +35,7 @@ This covers the setup of the environment behind the KCorp IT Support ticketing l
    ![Successful SSH login](Screenshots/Setup/03-ssh-login-success.png)
 4. Updated system packages and installed Apache, MySQL, and the PHP extensions above
    ![LAMP versions confirmed](Screenshots/Setup/04-lamp-versions-confirmed.png)
-5. Created a dedicated MySQL database (`osticket`) and a dedicated, least-privilege MySQL user rather than using root, scoped to localhost only
+5. Created a dedicated MySQL database (`osticket`) and a dedicated, least-privilege MySQL user rather than using root, scoped to localhost
    ![MySQL database and user created](Screenshots/Setup/05-mysql-db-user-created.png)
 6. Downloaded osTicket v1.18.4 from the official GitHub releases page, extracted it, and placed it into `/var/www/html/osticket/`
    ![osTicket files placed](Screenshots/Setup/06-osticket-files-directory.png)
