@@ -20,7 +20,7 @@
 Grace submitted a ticket saying she couldn't log into her computer. Her exact words: she kept getting told her password was wrong even though she was sure she was typing it correctly, and she hadn't changed it recently.
 
 ![Submission form](../Screenshots/Tickets/Ticket1/ticket-001-01-submission-form.png)
-![Ticket opened in staff panel](../Screenshots/Tickets/Ticket1/ticket-001-02-new-ticket-open.png)
+![Ticket opened in staff panel](../Screenshots/Tickets/Ticket1/ticket-001-02-new-ticket-confirmation.png)
 
 ## Troubleshooting Performed
 
