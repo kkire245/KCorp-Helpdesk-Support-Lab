@@ -52,4 +52,4 @@ One user, about 12 minutes without access. No impact to anyone else.
 
 ## Knowledge Base Reference
 
-[KB-001: Password Reset Procedure](../knowledge-base/KB-001-password-reset.md)
+[KB-001: Password Reset Procedure](../Knowledge-Base/KB-001-password-reset.md)
