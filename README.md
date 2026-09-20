@@ -22,16 +22,16 @@ Self-hosted [osTicket](https://osticket.com/) running on a dedicated Ubuntu Serv
 
 | Ticket ID | Title | Requester | Priority | Type |
 |---|---|---|---|---|
-| [TICKET-001](tickets/TICKET-001-password-reset.md) | Password Reset | Grace Liu | Normal | Full end to end |
-| [TICKET-002](tickets/TICKET-002-account-lockout.md) | Account Locked Out | Kevin Park | High | Full end to end |
-| [TICKET-003](tickets/TICKET-003-shared-drive-access.md) | Unable to Access Shared Finance Folder | Sofia Moretti | Normal | Documentation |
-| [TICKET-004](tickets/TICKET-004-software-installation.md) | PDF Reader Installation Request | Michael Kaiser | Normal | Full end to end |
-| [TICKET-005](tickets/TICKET-005-printer-not-working.md) | Printer Not Working | Daniel Osei | Normal | Documentation |
-| [TICKET-006](tickets/TICKET-006-network-connectivity.md) | Unable to Reach Internal Shares and Tools | Teddy Knight | Normal | Full end to end |
-| [TICKET-007](tickets/TICKET-007-slow-computer.md) | Computer Running Slow | Camille Fontaine | Normal | Documentation |
-| [TICKET-008](tickets/TICKET-008-outlook-not-working.md) | Outlook Not Sending or Receiving Email | Natalie Brooks | Normal | Documentation |
-| [TICKET-009](tickets/TICKET-009-vpn-connection-failure.md) | VPN Connection Failure | Hassan Ali | Normal | Documentation |
-| [TICKET-010](tickets/TICKET-010-monitor-not-detected.md) | External Monitor Not Detected | Vivian Hugo | Normal | Documentation |
+| [TICKET-001](Tickets/TICKET-001-password-reset.md) | Password Reset | Grace Liu | Normal | Full end to end |
+| [TICKET-002](Tickets/TICKET-002-account-lockout.md) | Account Locked Out | Kevin Park | High | Full end to end |
+| [TICKET-003](Tickets/TICKET-003-shared-drive-access.md) | Unable to Access Shared Finance Folder | Sofia Moretti | Normal | Documentation |
+| [TICKET-004](Tickets/TICKET-004-software-installation.md) | PDF Reader Installation Request | Michael Kaiser | Normal | Full end to end |
+| [TICKET-005](Tickets/TICKET-005-printer-not-working.md) | Printer Not Working | Daniel Osei | Normal | Documentation |
+| [TICKET-006](Tickets/TICKET-006-network-connectivity.md) | Unable to Reach Internal Shares and Tools | Teddy Knight | Normal | Full end to end |
+| [TICKET-007](Tickets/TICKET-007-slow-computer.md) | Computer Running Slow | Camille Fontaine | Normal | Documentation |
+| [TICKET-008](Tickets/TICKET-008-outlook-not-working.md) | Outlook Not Sending or Receiving Email | Natalie Brooks | Normal | Documentation |
+| [TICKET-009](Tickets/TICKET-009-vpn-connection-failure.md) | VPN Connection Failure | Hassan Ali | Normal | Documentation |
+| [TICKET-010](Tickets/TICKET-010-monitor-not-detected.md) | External Monitor Not Detected | Vivian Hugo | Normal | Documentation |
 
 ## Knowledge Base
 
@@ -56,7 +56,7 @@ Reusable KB articles referenced by the tickets above, one per ticket type.
 KCorp-Helpdesk-Support-Lab/
 ├── README.md
 ├── environment-setup.md
-├── tickets/
+├── Tickets/
 ├── Knowledge-Base/
 └── Screenshots/
     ├── Setup/
